@@ -1,0 +1,20 @@
+{
+    "profile": {
+      "nome": "Ana Silva",
+      "contato": "987654321",
+      "email": "ana@example.com"
+    },
+    "modalidades": [
+      { "id": 1, "nome": "Jiu-Jitsu" },
+      { "id": 2, "nome": "Karatê" }
+    ],
+    "turmas": [
+      { "id": 1, "nome": "Turma 1", "horario": "Segunda e Quarta, 19:00" },
+      { "id": 2, "nome": "Turma 2", "horario": "Terça e Quinta, 20:00" }
+    ],
+    "comprovantes": [
+      { "id": 1, "data_pagamento": "2024-07-10", "url": "/comprovantes/05-2024.pdf" },
+      { "id": 2, "data_pagamento": "2024-08-10", "url": "/comprovantes/06-2024.pdf" }
+    ]
+  }
+  
